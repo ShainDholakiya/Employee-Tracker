@@ -1,0 +1,17 @@
+body {
+    background-color: lightslategrey;
+}
+.jumbotron {
+    background-color: black;
+    color: white;
+}
+.card-header {
+    background-color: black;
+    color: white;
+}
+th {
+    
+}
+#add-search-btn {
+    margin-right: 15px;
+}
