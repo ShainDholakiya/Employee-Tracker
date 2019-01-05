@@ -1,6 +1,6 @@
 # Employee-Tracker
 
-Used HTML, CSS, JavaScript, jQuery, and AJAX
+Used Bootstrap, JavaScript, jQuery, Firebase, and API
 
 1. Initialize Firebase
 2. Create button for adding new employees - then update the html + update the database
