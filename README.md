@@ -1,5 +1,7 @@
 # Employee-Tracker
 
+https://shaindholakiya.github.io/Employee-Tracker/
+
 Used Bootstrap, JavaScript, jQuery, Firebase, and API
 
 1. Initialize Firebase
